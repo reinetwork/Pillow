@@ -2,7 +2,7 @@
     "name": "VerticalTab/Pillow",
     "type": "library",
     "description": "Zillow PHP client",
-    "homepage": "https://github.com/VerticalTab/Pillow",
+    "homepage": "https://github.com/reinetwork/Pillow",
     "license": "MIT",
     "authors": [
         {
